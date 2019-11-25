@@ -1,2 +1,2 @@
-# ideas-list
-Ideas and project list for JBoss Outreach
+# Ideas List.
+Ideas and projects list for JBoss Outreach:
